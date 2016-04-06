@@ -1,0 +1,32 @@
+{
+  "name": "deka6pb/yii2-date-unique-range-validator",
+  "description": "Yii 2 Validator for unique range dates",
+  "keywords": [
+    "yii2",
+    "yii2-validators",
+    "validator",
+    "deka6pb",
+    "date"
+  ],
+  "homepahe": "https://github.com/deka6pb/yii2-date-unique-range-validator",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mikhail Maklashov",
+      "email": "deka6pb@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "deka6pb\\validators\\": ""
+    }
+  }
+}
